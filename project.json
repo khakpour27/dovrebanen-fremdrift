@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "projectName": "Dovrebanen",
+    "title": "Fremdriftsplan",
+    "subtitle": "Prosjektering brufornyelse — Bru Breivegen og Bru Kvam",
+    "year": 2026,
+    "note": "Rådgiveroppdrag for Bane NOR. Prosjektering av brubytte ved Breivegen og Kvam på Dovrebanen. Oppstart 18. mai 2026, planlagt sluttleveranse (DF6) 31. desember 2027. Detaljprosjektering frem til MMI300 (Q4 2026), arbeidsunderlag MMI400 (Q1 2027), oppfølging i byggetid (Q1–Q4 2027)."
+  },
+  "sections": [
+    {
+      "name": "Tverrfaglig / leveranser",
+      "km": "DF1–DF7"
+    },
+    {
+      "name": "Konstruksjon / bru",
+      "km": "Begge bruer"
+    },
+    {
+      "name": "Geoteknikk",
+      "km": ""
+    }
+  ],
+  "renderOrder": [
+    0,
+    1,
+    2
+  ],
+  "workTypes": {
+    "proj": {
+      "label": "Prosjektering / utarbeidelse",
+      "color": "#1C2B54",
+      "lightBg": false
+    },
+    "kvs": {
+      "label": "Kvalitetssikring / godkjenning",
+      "color": "#612141",
+      "lightBg": false
+    },
+    "lev": {
+      "label": "Leveranse / milepæl",
+      "color": "#F04E23",
+      "lightBg": false
+    }
+  },
+  "columns": [
+    {
+      "id": "q2-26",
+      "label": "Q2 2026",
+      "brudd": false,
+      "period": "prep",
+      "mar": true,
+      "dateFrom": "2026-05-01",
+      "dateTo": "2026-06-30"
+    },
+    {
+      "id": "q3-26",
+      "label": "Q3 2026",
+      "brudd": false,
+      "period": "prep",
+      "dateFrom": "2026-07-01",
+      "dateTo": "2026-09-30"
+    },
+    {
+      "id": "q4-26",
+      "label": "Q4 2026",
+      "brudd": false,
+      "period": "prep",
+      "dateFrom": "2026-10-01",
+      "dateTo": "2026-12-31"
+    },
+    {
+      "id": "q1-27",
+      "label": "Q1 2027",
+      "brudd": false,
+      "period": "prep",
+      "dateFrom": "2027-01-01",
+      "dateTo": "2027-03-31"
+    },
+    {
+      "id": "q2-27",
+      "label": "Q2 2027",
+      "brudd": false,
+      "period": "prep",
+      "dateFrom": "2027-04-01",
+      "dateTo": "2027-06-30"
+    },
+    {
+      "id": "q3-27",
+      "label": "Q3 2027",
+      "brudd": false,
+      "period": "prep",
+      "dateFrom": "2027-07-01",
+      "dateTo": "2027-09-30"
+    },
+    {
+      "id": "q4-27",
+      "label": "Q4 2027",
+      "brudd": false,
+      "period": "prep",
+      "dateFrom": "2027-10-01",
+      "dateTo": "2027-12-31"
+    }
+  ],
+  "phases": {
+    "prepLabel": "Prosjektering 2026 – 2027",
+    "prepColspan": 7,
+    "bruddLabel": "",
+    "bruddTag": "",
+    "bruddColspan": 0
+  },
+  "trinnBygg": {
+    "1": {
+      "label": "Prosjektering",
+      "short": "T1",
+      "color": "#1C2B54",
+      "period": "",
+      "desc": ""
+    }
+  },
+  "trinnProsjekt": {
+    "0": {
+      "label": "Prosjektering",
+      "short": "T0",
+      "color": "#1C2B54",
+      "period": "",
+      "mmi": "",
+      "desc": "",
+      "detail": ""
+    }
+  },
+  "mmiLevels": {},
+  "data": [
+    [
+      0,
+      "q2-26",
+      "lev",
+      "DF1 - Kvalitetsplan",
+      1,
+      0
+    ],
+    [
+      0,
+      "q2-26",
+      "lev",
+      "Månedsrapportering (DF2)",
+      1,
+      0
+    ],
+    [
+      0,
+      "q2-26",
+      "proj",
+      "Kontrakt inngåelse",
+      1,
+      0
+    ],
+    [
+      0,
+      "q2-26",
+      "proj",
+      "Oppstart",
+      1,
+      0
+    ],
+    [
+      0,
+      "q3-26",
+      "lev",
+      "Månedsrapportering (DF2)",
+      1,
+      0
+    ],
+    [
+      0,
+      "q4-26",
+      "lev",
+      "Månedsrapportering (DF2)",
+      1,
+      0
+    ],
+    [
+      0,
+      "q1-27",
+      "lev",
+      "Månedsrapportering (DF2)",
+      1,
+      0
+    ],
+    [
+      0,
+      "q2-27",
+      "lev",
+      "Månedsrapportering (DF2)",
+      1,
+      0
+    ],
+    [
+      0,
+      "q3-27",
+      "lev",
+      "Månedsrapportering (DF2)",
+      1,
+      0
+    ],
+    [
+      0,
+      "q4-27",
+      "lev",
+      "Månedsrapportering (DF2)",
+      1,
+      0
+    ],
+    [
+      1,
+      "q2-26",
+      "lev",
+      "DF3 - Valg av brukonsept",
+      1,
+      0
+    ],
+    [
+      1,
+      "q2-26",
+      "proj",
+      "Konseptfase – alternativer & optimalisering",
+      1,
+      0
+    ],
+    [
+      1,
+      "q3-26",
+      "proj",
+      "Detaljprosjektering – fagmodeller (MMI300)",
+      1,
+      0
+    ],
+    [
+      1,
+      "q4-26",
+      "kvs",
+      "3. parts kontroll & godkjenning Bane NOR Teknologi",
+      1,
+      0
+    ],
+    [
+      1,
+      "q4-26",
+      "lev",
+      "DF4 - Komplett konkurransegrunnlag",
+      1,
+      0
+    ],
+    [
+      1,
+      "q4-26",
+      "proj",
+      "Detaljprosjektering – fagmodeller (MMI300)",
+      1,
+      0
+    ],
+    [
+      1,
+      "q1-27",
+      "kvs",
+      "3. parts kontroll & godkjenning Bane NOR Teknologi",
+      1,
+      0
+    ],
+    [
+      1,
+      "q1-27",
+      "kvs",
+      "Bane NOR godkjenningsperiode",
+      1,
+      0
+    ],
+    [
+      1,
+      "q1-27",
+      "kvs",
+      "Godkjent endelig arbeidsunderlag (DF7) - MMI400",
+      1,
+      0
+    ],
+    [
+      1,
+      "q1-27",
+      "proj",
+      "Levering endelig arbeidsunderlag (DF7) - MMI400",
+      1,
+      0
+    ],
+    [
+      1,
+      "q1-27",
+      "proj",
+      "Oppfølging i byggetid",
+      1,
+      0
+    ],
+    [
+      1,
+      "q2-27",
+      "proj",
+      "Oppfølging i byggetid",
+      1,
+      0
+    ],
+    [
+      1,
+      "q3-27",
+      "proj",
+      "Oppfølging i byggetid",
+      1,
+      0
+    ],
+    [
+      1,
+      "q4-27",
+      "lev",
+      "DF6 – Sluttdokumentasjon",
+      1,
+      0
+    ],
+    [
+      2,
+      "q3-26",
+      "proj",
+      "Supplerende grunnundersøkelser",
+      1,
+      0
+    ]
+  ]
+}
