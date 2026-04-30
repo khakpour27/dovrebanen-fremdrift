@@ -4,12 +4,12 @@
     "title": "Fremdriftsplan",
     "subtitle": "Prosjektering brufornyelse — Bru Breivegen og Bru Kvam",
     "year": 2026,
-    "note": "Rådgiveroppdrag for Bane NOR. Prosjektering av brubytte ved Breivegen og Kvam på Dovrebanen. Oppstart 18. mai 2026, planlagt sluttleveranse (DF6) 31. desember 2027. Detaljprosjektering frem til MMI300 (Q4 2026), arbeidsunderlag MMI400 (Q1 2027), oppfølging i byggetid (Q1–Q4 2027)."
+    "note": "Rådgiveroppdrag for Bane NOR. Prosjektering brubytte Breivegen og Kvam. Oppstart 18. mai 2026. DF4 (komplett konkurransegrunnlag, MMI375) leveres 16. desember 2026. DF7 (arbeidsunderlag, MMI400) godkjennes 16. mars 2027. Oppfølging i byggetid løper mars–september 2027. Sluttfrist 28. september 2027."
   },
   "sections": [
     {
       "name": "Tverrfaglig / leveranser",
-      "km": "DF1–DF7"
+      "km": "DF1, DF3, DF4, DF7"
     },
     {
       "name": "Konstruksjon / bru",
@@ -91,19 +91,11 @@
       "period": "prep",
       "dateFrom": "2027-07-01",
       "dateTo": "2027-09-30"
-    },
-    {
-      "id": "q4-27",
-      "label": "Q4 2027",
-      "brudd": false,
-      "period": "prep",
-      "dateFrom": "2027-10-01",
-      "dateTo": "2027-12-31"
     }
   ],
   "phases": {
     "prepLabel": "Prosjektering 2026 – 2027",
-    "prepColspan": 7,
+    "prepColspan": 6,
     "bruddLabel": "",
     "bruddTag": "",
     "bruddColspan": 0
@@ -134,23 +126,7 @@
       0,
       "q2-26",
       "lev",
-      "DF1 - Kvalitetsplan",
-      1,
-      0
-    ],
-    [
-      0,
-      "q2-26",
-      "lev",
-      "Månedsrapportering (DF2)",
-      1,
-      0
-    ],
-    [
-      0,
-      "q2-26",
-      "proj",
-      "Kontrakt inngåelse",
+      "DF1 – Kvalitetsplan",
       1,
       0
     ],
@@ -164,17 +140,9 @@
     ],
     [
       0,
-      "q3-26",
-      "lev",
-      "Månedsrapportering (DF2)",
-      1,
-      0
-    ],
-    [
-      0,
       "q4-26",
       "lev",
-      "Månedsrapportering (DF2)",
+      "Godkjent konkurransegrunnlag klar for utlysning",
       1,
       0
     ],
@@ -182,7 +150,15 @@
       0,
       "q1-27",
       "lev",
-      "Månedsrapportering (DF2)",
+      "Bane NOR utlysningsperiode",
+      1,
+      0
+    ],
+    [
+      0,
+      "q1-27",
+      "proj",
+      "Bistand byggherre — avklaringer KG",
       1,
       0
     ],
@@ -190,7 +166,15 @@
       0,
       "q2-27",
       "lev",
-      "Månedsrapportering (DF2)",
+      "Bane NOR utlysningsperiode",
+      1,
+      0
+    ],
+    [
+      0,
+      "q2-27",
+      "proj",
+      "Bistand byggherre — avklaringer KG",
       1,
       0
     ],
@@ -198,15 +182,7 @@
       0,
       "q3-27",
       "lev",
-      "Månedsrapportering (DF2)",
-      1,
-      0
-    ],
-    [
-      0,
-      "q4-27",
-      "lev",
-      "Månedsrapportering (DF2)",
+      "Sluttfrist – prosjektslutt",
       1,
       0
     ],
@@ -214,7 +190,7 @@
       1,
       "q2-26",
       "lev",
-      "DF3 - Valg av brukonsept",
+      "DF3 – Valg av brukonsept",
       1,
       0
     ],
@@ -245,8 +221,24 @@
     [
       1,
       "q4-26",
+      "kvs",
+      "Bane NOR godkjenning",
+      1,
+      0
+    ],
+    [
+      1,
+      "q4-26",
+      "kvs",
+      "Høringsutkast konkurransegrunnlag",
+      1,
+      0
+    ],
+    [
+      1,
+      "q4-26",
       "lev",
-      "DF4 - Komplett konkurransegrunnlag",
+      "DF4 – Konkurransegrunnlag (MMI375)",
       1,
       0
     ],
@@ -270,23 +262,31 @@
       1,
       "q1-27",
       "kvs",
-      "Bane NOR godkjenningsperiode",
+      "Bane NOR godkjenning",
       1,
       0
     ],
     [
       1,
       "q1-27",
-      "kvs",
-      "Godkjent endelig arbeidsunderlag (DF7) - MMI400",
+      "lev",
+      "DF7 godkjent (MMI400)",
       1,
       0
     ],
     [
       1,
       "q1-27",
-      "proj",
-      "Levering endelig arbeidsunderlag (DF7) - MMI400",
+      "lev",
+      "DF7 – Arbeidsunderlag (MMI400)",
+      1,
+      0
+    ],
+    [
+      1,
+      "q1-27",
+      "lev",
+      "Høringsutkast arbeidsunderlag (DF7)",
       1,
       0
     ],
@@ -311,14 +311,6 @@
       "q3-27",
       "proj",
       "Oppfølging i byggetid",
-      1,
-      0
-    ],
-    [
-      1,
-      "q4-27",
-      "lev",
-      "DF6 – Sluttdokumentasjon",
       1,
       0
     ],
