@@ -4,7 +4,7 @@
     "title": "Fremdriftsplan",
     "subtitle": "Prosjektering brufornyelse — Bru Breivegen og Bru Kvam",
     "year": 2026,
-    "note": "Rådgiveroppdrag for Bane NOR. Prosjektering brubytte Breivegen og Kvam. Oppstart 18. august 2026. DF4 (komplett konkurransegrunnlag, MMI375) leveres 16. mars 2027. DF7 (arbeidsunderlag, MMI400) godkjennes 16. juni 2027. Oppfølging i byggetid løper juni–desember 2027. Sluttfrist 28. desember 2027."
+    "note": "Rådgiveroppdrag for Bane NOR. Prosjektering brubytte Breivegen og Kvam. Oppstart 18. august 2026. DF4 (komplett konkurransegrunnlag, MMI375) leveres 16. desember 2026. DF7 (arbeidsunderlag, MMI400) godkjennes 16. mars 2027. Oppfølging i byggetid løper juni–desember 2027. Sluttfrist 28. desember 2027."
   },
   "sections": [
     {
@@ -140,7 +140,7 @@
     ],
     [
       0,
-      "q4-26",
+      "q3-26",
       "lev",
       "Godkjent konkurransegrunnlag klar for utlysning",
       1,
@@ -148,7 +148,7 @@
     ],
     [
       0,
-      "q1-27",
+      "q4-26",
       "lev",
       "Bane NOR utlysningsperiode",
       1,
@@ -156,7 +156,7 @@
     ],
     [
       0,
-      "q1-27",
+      "q4-26",
       "proj",
       "Bistand byggherre — avklaringer KG",
       1,
@@ -164,7 +164,7 @@
     ],
     [
       0,
-      "q2-27",
+      "q1-27",
       "lev",
       "Bane NOR utlysningsperiode",
       1,
@@ -172,7 +172,7 @@
     ],
     [
       0,
-      "q2-27",
+      "q1-27",
       "proj",
       "Bistand byggherre — avklaringer KG",
       1,
@@ -212,7 +212,7 @@
     ],
     [
       1,
-      "q4-26",
+      "q3-26",
       "kvs",
       "3. parts kontroll & godkjenning Bane NOR Teknologi",
       1,
@@ -220,7 +220,7 @@
     ],
     [
       1,
-      "q4-26",
+      "q3-26",
       "kvs",
       "Bane NOR godkjenning",
       1,
@@ -228,7 +228,7 @@
     ],
     [
       1,
-      "q4-26",
+      "q3-26",
       "kvs",
       "Høringsutkast konkurransegrunnlag",
       1,
@@ -236,7 +236,7 @@
     ],
     [
       1,
-      "q4-26",
+      "q3-26",
       "lev",
       "DF4 – Konkurransegrunnlag (MMI375)",
       1,
@@ -245,14 +245,6 @@
     [
       1,
       "q4-26",
-      "proj",
-      "Detaljprosjektering – fagmodeller (MMI300)",
-      1,
-      0
-    ],
-    [
-      1,
-      "q1-27",
       "kvs",
       "3. parts kontroll & godkjenning Bane NOR Teknologi",
       1,
@@ -260,7 +252,7 @@
     ],
     [
       1,
-      "q1-27",
+      "q4-26",
       "kvs",
       "Bane NOR godkjenning",
       1,
@@ -268,7 +260,7 @@
     ],
     [
       1,
-      "q1-27",
+      "q4-26",
       "lev",
       "DF7 godkjent (MMI400)",
       1,
@@ -276,7 +268,7 @@
     ],
     [
       1,
-      "q1-27",
+      "q4-26",
       "lev",
       "DF7 – Arbeidsunderlag (MMI400)",
       1,
@@ -284,7 +276,7 @@
     ],
     [
       1,
-      "q1-27",
+      "q4-26",
       "lev",
       "Høringsutkast arbeidsunderlag (DF7)",
       1,
